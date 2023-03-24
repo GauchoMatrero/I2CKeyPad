@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [0.3.3A] - 2022-12-27 BY CF
+- Add Tiny I2C library instead of bigger wire.
+- Add CHANGELOG.md
+
 ## [0.3.3] - 2022-11-12
 - Add RP2040 support to build-CI.
 - Add CHANGELOG.md
